@@ -88,6 +88,7 @@ public class Vehicle {
         IronSuit iS = new IronSuit("Mark42", 1.0, 2.0, 1.8, 200.0, 1, "98B12345");
         iS.fly();
 
+        System.out.println("Add a mess to github");
 
     }
 }
